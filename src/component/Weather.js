@@ -57,7 +57,7 @@ function Weather() {
 }
 
   useEffect(()=>{
-    search("Bangalore");
+    search("Hyderabad");
   },[]);
 
   return (
